@@ -3,4 +3,4 @@ This repository will be used to help me catalog my work and allow others to see 
 
 ## List of resources
 - [Google Docs](https://drive.google.com/drive/folders/1k8RXZAl6wsue7XRoa-7dFMJWUSJwIpxP?usp=sharing)
-- [Wikipedia Resources](PutUrlHere)
+- [Wikipedia Resources](https://en.wikipedia.org/wiki/Wikipedia:Articles_for_creation)
