@@ -5,3 +5,4 @@ This repository will be used to help me catalog my work and allow others to see 
 - [Google Docs](https://drive.google.com/drive/folders/1k8RXZAl6wsue7XRoa-7dFMJWUSJwIpxP?usp=sharing)
 - [Wikipedia Resources](https://en.wikipedia.org/wiki/Wikipedia:Articles_for_creation)
 - [Article Creation Flow Chart](https://github.com/Collegeville/WikiScribe/blob/main/Host%20Platforms.pdf)
+- [Article Suggestions and Project Status](https://docs.google.com/spreadsheets/d/1DMc6Iq-aqDvUOdgZbSgA6QF5zaI0DoeTdwi4Qvzsv6I/edit#gid=0)
